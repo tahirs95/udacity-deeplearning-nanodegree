@@ -4,9 +4,7 @@ A portfolio of projects done in Udacity Deep Learning Nanodegree.
 
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image1]: ./cnn/images/sample_dog_output.png "Sample Output"
 
 
 ## Project Overview
