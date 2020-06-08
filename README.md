@@ -4,6 +4,7 @@ A portfolio of projects done in Udacity Deep Learning Nanodegree.
 
 [//]: # (Image References)
 
+[image0]: ./first_neural_network/images/predictions.png "Predictions"
 [image1]: ./cnn/images/sample_dog_output.png "Sample Output"
 
 ## Neural Network Project Overview
