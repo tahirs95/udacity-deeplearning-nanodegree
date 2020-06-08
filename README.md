@@ -11,6 +11,8 @@ A portfolio of projects done in Udacity Deep Learning Nanodegree.
 
 Given the input parameters such as date, season and temperature, the neural network model predicts daily bike rental ridership.
 
+![Predictions][image0]
+
 
 ## CNN Project Overview
 
